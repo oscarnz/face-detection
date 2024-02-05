@@ -1,0 +1,1 @@
+docker run --rm --gpus all -d -p 8080:80 klifvr.azurecr.io/api_v1:v4_rack

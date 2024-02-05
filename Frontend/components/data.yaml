@@ -1,0 +1,9 @@
+train: /content/CHV_dataset/images/train
+val:  /content/CHV_dataset/images/val
+test: /content/CHV_dataset/images/test
+
+# number of classes
+nc: 6
+
+# class names
+names: ['person', 'vest', 'blue helmet', 'red helmet', 'white helmet', 'yellow helmet']

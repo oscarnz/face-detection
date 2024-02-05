@@ -1,0 +1,18 @@
+NMFD (no mask)	https://drive.google.com/file/d/188oyLaBpDMETSUNIg2zh8itfT7NEbxr6/view?usp=sharing  
+
+CMFD (correct mask)	https://drive.google.com/file/d/1ZLIEadbXM64nVeXfii6HufxF87f3EpAJ/view?usp=sharing 
+
+CMFD 1 (correct mask)	https://drive.google.com/file/d/18KLD4n69F68wQKOnclu4PwGwI7UAm2cS/view?usp=sharing 
+
+IMFD (incorrect mask)	https://drive.google.com/file/d/1MdZ4-oMULv3tH4EBOJBodtwkz_LDTWZW/view?usp=sharing 
+
+IMFD 1 (incorrect mask)	https://drive.google.com/file/d/1lmk8c9yZ0axUf-2Mg81b_p9VvCFf24p4/view?usp=sharing 
+
+Sharepoint https://slb001-my.sharepoint.com/:f:/r/personal/nafandi3_slb_com/Documents/Virtual%20Reception%20-%20Face%20Mask?csf=1&web=1&e=tGniIy
+•	Google Colab (Data Preprocessing) - https://colab.research.google.com/drive/1nzVGV5BJM0g5XnD3Mv_6gJwtiWYQaV_3?usp=sharing 
+•	Google Colab (MobileNet_Facemask) - https://colab.research.google.com/drive/1Osuw2hA4WxFz8303jw-s4eQCGlHblPAa?usp=sharing 
+•	Dataset after preprocessing - https://slb001-my.sharepoint.com/:f:/r/personal/nafandi3_slb_com/Documents/Virtual%20Reception%20-%20Face%20Mask/DATASET?csf=1&web=1&e=Pr6v6r
+
+
+
+
